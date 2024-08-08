@@ -1,0 +1,7 @@
+.buttonWrapper {
+  font-size: 16px;
+  border: 1px solid rgba(255, 255, 255);
+  border-radius: 8px;
+  padding: 4px 8px;
+  margin: 0 12px;
+}
